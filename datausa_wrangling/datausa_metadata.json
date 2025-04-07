@@ -1,0 +1,11 @@
+{
+    "Citizenship": "Description of Citizenship data",
+    "Race and Ethnicity": "Description of Race and Ethnicity data",
+    "Applicants, Admissions &amp; Enrolled": "Description of Applicants, Admissions & Enrolled data",
+    "Property": "Property Value distribution",
+    "Occupations": "Employment distribution by Occupation",
+    "Uninsured People": "Medical Insurance distribution",
+    "Rent vs Own": "Percent of homes occupied by the homeowner",
+    "Employment by Industries": "Employment distribution by Industry",
+    "Household Income": "Household Income Distribution"
+}
