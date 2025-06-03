@@ -1,0 +1,61 @@
+ID Citizenship,Citizenship,ID Year,Year,Citizenship Status,Geography,ID Geography,Slug Geography,Citizenship %
+0,"Citizen",2022,"2022",309482689,"United States","01000US","united-states",0.9347174233308304
+0,"Citizen",2022,"2022",26293082,"Texas","04000US48","texas",0.899113446062355
+0,"Citizen",2022,"2022",1151767,"Travis County, TX","05000US48453","travis-county-tx",0.8934978674283622
+0,"Citizen",2022,"2022",570765,"Williamson County, TX","05000US48491","williamson-county-tx",0.9244714899351469
+0,"Citizen",2022,"2022",847768,"Austin, TX","16000US4805000","austin-tx",0.8847487273038461
+0,"Citizen",2022,"2022",2086993,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9088198497023791
+0,"Citizen",2021,"2021",308022042,"United States","01000US","united-states",0.9341772466775171
+0,"Citizen",2021,"2021",25909658,"Texas","04000US48","texas",0.8976902654686356
+0,"Citizen",2021,"2021",1131370,"Travis County, TX","05000US48453","travis-county-tx",0.8923919087865152
+0,"Citizen",2021,"2021",548302,"Williamson County, TX","05000US48491","williamson-county-tx",0.9265630096035717
+0,"Citizen",2021,"2021",832126,"Austin, TX","16000US4805000","austin-tx",0.8808754067609653
+0,"Citizen",2021,"2021",2029248,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.908225394978293
+0,"Citizen",2020,"2020",304900364,"United States","01000US","united-states",0.9336467222449453
+0,"Citizen",2020,"2020",25700074,"Texas","04000US48","texas",0.897491786576928
+0,"Citizen",2020,"2020",1118963,"Travis County, TX","05000US48453","travis-county-tx",0.8945377828799473
+0,"Citizen",2020,"2020",529684,"Williamson County, TX","05000US48491","williamson-county-tx",0.928558280756683
+0,"Citizen",2020,"2020",854199,"Austin, TX","16000US4805000","austin-tx",0.8843811602365531
+0,"Citizen",2020,"2020",1978585,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9101947553689294
+0,"Citizen",2019,"2019",302533815,"United States","01000US","united-states",0.9317396658021654
+0,"Citizen",2019,"2019",25253945,"Texas","04000US48","texas",0.8936015596979794
+0,"Citizen",2019,"2019",1085775,"Travis County, TX","05000US48453","travis-county-tx",0.88504285522149
+0,"Citizen",2019,"2019",510768,"Williamson County, TX","05000US48491","williamson-county-tx",0.9327324124732471
+0,"Citizen",2019,"2019",831502,"Austin, TX","16000US4805000","austin-tx",0.8745223794103325
+0,"Citizen",2019,"2019",1913955,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9051825045011896
+0,"Citizen",2018,"2018",300613540,"United States","01000US","united-states",0.9309715675322093
+0,"Citizen",2018,"2018",24886847,"Texas","04000US48","texas",0.8924752722726164
+0,"Citizen",2018,"2018",1064327,"Travis County, TX","05000US48453","travis-county-tx",0.8846052830615226
+0,"Citizen",2018,"2018",492418,"Williamson County, TX","05000US48491","williamson-county-tx",0.9342784556509068
+0,"Citizen",2018,"2018",818612,"Austin, TX","16000US4805000","austin-tx",0.8748144546382333
+0,"Citizen",2018,"2018",1863249,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9052144167831434
+0,"Citizen",2017,"2017",298666642,"United States","01000US","united-states",0.9304129023998103
+0,"Citizen",2017,"2017",24464434,"Texas","04000US48","texas",0.8922239308127335
+0,"Citizen",2017,"2017",1038939,"Travis County, TX","05000US48453","travis-county-tx",0.8830130275441448
+0,"Citizen",2017,"2017",475767,"Williamson County, TX","05000US48491","williamson-county-tx",0.9359725208680478
+0,"Citizen",2017,"2017",801785,"Austin, TX","16000US4805000","austin-tx",0.8744462354919698
+0,"Citizen",2017,"2017",1809585,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.904525664928846
+0,"Citizen",2016,"2016",296343215,"United States","01000US","united-states",0.9302640784322456
+0,"Citizen",2016,"2016",24051894,"Texas","04000US48","texas",0.8922505516771784
+0,"Citizen",2016,"2016",1013818,"Travis County, TX","05000US48453","travis-county-tx",0.8829813547748777
+0,"Citizen",2016,"2016",459597,"Williamson County, TX","05000US48491","williamson-county-tx",0.93676967259727
+0,"Citizen",2016,"2016",794334,"Austin, TX","16000US4805000","austin-tx",0.8750301560181498
+0,"Citizen",2016,"2016",1758050,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9049914676865977
+0,"Citizen",2015,"2015",294245828,"United States","01000US","united-states",0.9296425397769669
+0,"Citizen",2015,"2015",23662751,"Texas","04000US48","texas",0.8916347703764785
+0,"Citizen",2015,"2015",982293,"Travis County, TX","05000US48453","travis-county-tx",0.8757610473902171
+0,"Citizen",2015,"2015",443863,"Williamson County, TX","05000US48491","williamson-county-tx",0.9372265578810453
+0,"Citizen",2015,"2015",771211,"Austin, TX","16000US4805000","austin-tx",0.8694001878112103
+0,"Citizen",2015,"2015",1701639,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.9007698928692802
+0,"Citizen",2014,"2014",291850247,"United States","01000US","united-states",0.9291425181610995
+0,"Citizen",2014,"2014",23249757,"Texas","04000US48","texas",0.8910672847914917
+0,"Citizen",2014,"2014",953896,"Travis County, TX","05000US48453","travis-county-tx",0.8728836668771333
+0,"Citizen",2014,"2014",427040,"Williamson County, TX","05000US48491","williamson-county-tx",0.933996474329532
+0,"Citizen",2014,"2014",746906,"Austin, TX","16000US4805000","austin-tx",0.8642564723252698
+0,"Citizen",2014,"2014",1648281,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.8982379445192848
+0,"Citizen",2013,"2013",289401591,"United States","01000US","united-states",0.9289489471660591
+0,"Citizen",2013,"2013",22848144,"Texas","04000US48","texas",0.8911350523275277
+0,"Citizen",2013,"2013",926080,"Travis County, TX","05000US48453","travis-county-tx",0.8709915278467488
+0,"Citizen",2013,"2013",412892,"Williamson County, TX","05000US48491","williamson-county-tx",0.9353192356918756
+0,"Citizen",2013,"2013",719995,"Austin, TX","16000US4805000","austin-tx",0.8604146749521988
+0,"Citizen",2013,"2013",1599842,"Austin-Round Rock, TX","31000US12420","austin-round-rock-tx",0.8977627786706411

@@ -1,0 +1,141 @@
+ID Race,Race,ID Ethnicity,Ethnicity,ID Year,Year,Hispanic Population Moe,Geography,ID Geography,Slug Geography,Population,share
+0,"White Alone",0,"Not Hispanic or Latino",2022,"2022",3990.9999999999995,"Austin, TX","16000US4805000","austin-tx",456627,0.4765456553002394
+0,"White Alone",1,"Hispanic or Latino",2022,"2022",4610,"Austin, TX","16000US4805000","austin-tx",149195,0.15570307722171317
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2022,"2022",2949,"Austin, TX","16000US4805000","austin-tx",71592,0.07471493484672334
+1,"Black or African American Alone",1,"Hispanic or Latino",2022,"2022",817,"Austin, TX","16000US4805000","austin-tx",3840,0.004007505724262734
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2022,"2022",279,"Austin, TX","16000US4805000","austin-tx",1168,0.0012189496577965815
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2022,"2022",1506,"Austin, TX","16000US4805000","austin-tx",6393,0.0066718708581280355
+3,"Asian Alone",0,"Not Hispanic or Latino",2022,"2022",2576,"Austin, TX","16000US4805000","austin-tx",79178,0.08263184589470696
+3,"Asian Alone",1,"Hispanic or Latino",2022,"2022",326,"Austin, TX","16000US4805000","austin-tx",1067,0.0011135439082782127
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2022,"2022",122,"Austin, TX","16000US4805000","austin-tx",375,0.0003913579808850326
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2022,"2022",112.99999999999999,"Austin, TX","16000US4805000","austin-tx",103,0.00010749299208308896
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2022,"2022",700,"Austin, TX","16000US4805000","austin-tx",3292,0.003435601261529406
+5,"Some Other Race Alone",1,"Hispanic or Latino",2022,"2022",5234,"Austin, TX","16000US4805000","austin-tx",75474,0.0787662726648452
+6,"Two or More Races",0,"Not Hispanic or Latino",2022,"2022",2019.1941461880283,"Austin, TX","16000US4805000","austin-tx",34086,0.035572875030525926
+6,"Two or More Races",1,"Hispanic or Latino",2022,"2022",4318.773205436933,"Austin, TX","16000US4805000","austin-tx",75812,0.07911901665828291
+0,"White Alone",0,"Not Hispanic or Latino",2021,"2021",4893,"Austin, TX","16000US4805000","austin-tx",451599,0.47805555026263474
+0,"White Alone",1,"Hispanic or Latino",2021,"2021",5836,"Austin, TX","16000US4805000","austin-tx",175571,0.18585668040708914
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2021,"2021",2576,"Austin, TX","16000US4805000","austin-tx",68994,0.07303595586974333
+1,"Black or African American Alone",1,"Hispanic or Latino",2021,"2021",852,"Austin, TX","16000US4805000","austin-tx",3835,0.0040596702722043325
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2021,"2021",302,"Austin, TX","16000US4805000","austin-tx",1401,0.0014830764149565238
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2021,"2021",1161,"Austin, TX","16000US4805000","austin-tx",6208,0.006571690495396218
+3,"Asian Alone",0,"Not Hispanic or Latino",2021,"2021",2451,"Austin, TX","16000US4805000","austin-tx",76750,0.08124633465232921
+3,"Asian Alone",1,"Hispanic or Latino",2021,"2021",231.99999999999997,"Austin, TX","16000US4805000","austin-tx",727,0.0007695906878468187
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2021,"2021",150,"Austin, TX","16000US4805000","austin-tx",339,0.00035886003188455507
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2021,"2021",122,"Austin, TX","16000US4805000","austin-tx",116,0.0001227957631227386
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2021,"2021",642,"Austin, TX","16000US4805000","austin-tx",2739,0.002899462027527423
+5,"Some Other Race Alone",1,"Hispanic or Latino",2021,"2021",5030,"Austin, TX","16000US4805000","austin-tx",74566,0.0789343868362942
+6,"Two or More Races",0,"Not Hispanic or Latino",2021,"2021",2184.2069499019544,"Austin, TX","16000US4805000","austin-tx",30082,0.03184432884705364
+6,"Two or More Races",1,"Hispanic or Latino",2021,"2021",3618.8741343130464,"Austin, TX","16000US4805000","austin-tx",51731,0.05476161743191716
+0,"White Alone",0,"Not Hispanic or Latino",2020,"2020",3882,"Austin, TX","16000US4805000","austin-tx",465953,0.4824169248099127
+0,"White Alone",1,"Hispanic or Latino",2020,"2020",5157,"Austin, TX","16000US4805000","austin-tx",204290,0.2115083572150347
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2020,"2020",2419,"Austin, TX","16000US4805000","austin-tx",71430,0.07395389865323769
+1,"Black or African American Alone",1,"Hispanic or Latino",2020,"2020",912.0000000000001,"Austin, TX","16000US4805000","austin-tx",3778,0.003911491377739494
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2020,"2020",347,"Austin, TX","16000US4805000","austin-tx",1770,0.0018325409578080739
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2020,"2020",1056,"Austin, TX","16000US4805000","austin-tx",5208,0.0053920188182285025
+3,"Asian Alone",0,"Not Hispanic or Latino",2020,"2020",2650,"Austin, TX","16000US4805000","austin-tx",73875,0.07648528997631156
+3,"Asian Alone",1,"Hispanic or Latino",2020,"2020",188,"Austin, TX","16000US4805000","austin-tx",628,0.0006501896731658025
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2020,"2020",114.00000000000001,"Austin, TX","16000US4805000","austin-tx",209,0.00021638477976377823
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2020,"2020",295,"Austin, TX","16000US4805000","austin-tx",433,0.000448299567644574
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2020,"2020",586,"Austin, TX","16000US4805000","austin-tx",2346,0.002428893269501549
+5,"Some Other Race Alone",1,"Hispanic or Latino",2020,"2020",4627,"Austin, TX","16000US4805000","austin-tx",73215,0.07580196961916279
+6,"Two or More Races",0,"Not Hispanic or Latino",2020,"2020",2182.028872402929,"Austin, TX","16000US4805000","austin-tx",28668,0.02968095151324399
+6,"Two or More Races",1,"Hispanic or Latino",2020,"2020",3978.465156313425,"Austin, TX","16000US4805000","austin-tx",34069,0.035272789769244785
+0,"White Alone",0,"Not Hispanic or Latino",2019,"2019",3289,"Austin, TX","16000US4805000","austin-tx",459086,0.4828382626547764
+0,"White Alone",1,"Hispanic or Latino",2019,"2019",4499,"Austin, TX","16000US4805000","austin-tx",231486,0.2434626585626736
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2019,"2019",1696,"Austin, TX","16000US4805000","austin-tx",70618,0.07427164503416571
+1,"Black or African American Alone",1,"Hispanic or Latino",2019,"2019",842,"Austin, TX","16000US4805000","austin-tx",3823,0.004020794966801885
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2019,"2019",357,"Austin, TX","16000US4805000","austin-tx",1776,0.0018678869633900466
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2019,"2019",982,"Austin, TX","16000US4805000","austin-tx",4513,0.00474649429379464
+3,"Asian Alone",0,"Not Hispanic or Latino",2019,"2019",1713,"Austin, TX","16000US4805000","austin-tx",71576,0.07527921018671507
+3,"Asian Alone",1,"Hispanic or Latino",2019,"2019",171,"Austin, TX","16000US4805000","austin-tx",557,0.0005858181523695135
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2019,"2019",95,"Austin, TX","16000US4805000","austin-tx",234,0.0002461067282844994
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2019,"2019",231.99999999999997,"Austin, TX","16000US4805000","austin-tx",290,0.0003050040649679693
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2019,"2019",472,"Austin, TX","16000US4805000","austin-tx",1875,0.001972009040741181
+5,"Some Other Race Alone",1,"Hispanic or Latino",2019,"2019",3904.9999999999995,"Austin, TX","16000US4805000","austin-tx",72001,0.0757261989026164
+6,"Two or More Races",0,"Not Hispanic or Latino",2019,"2019",1263.9066421219568,"Austin, TX","16000US4805000","austin-tx",23184,0.024383497386956554
+6,"Two or More Races",1,"Hispanic or Latino",2019,"2019",1129.2178709177429,"Austin, TX","16000US4805000","austin-tx",9788,0.010294413061746496
+0,"White Alone",0,"Not Hispanic or Latino",2018,"2018",2659,"Austin, TX","16000US4805000","austin-tx",452110,0.4831499698104739
+0,"White Alone",1,"Hispanic or Latino",2018,"2018",4425,"Austin, TX","16000US4805000","austin-tx",235566,0.2517389701364139
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2018,"2018",1834.0000000000002,"Austin, TX","16000US4805000","austin-tx",69770,0.07456011455990083
+1,"Black or African American Alone",1,"Hispanic or Latino",2018,"2018",707,"Austin, TX","16000US4805000","austin-tx",3620,0.0038685339645526872
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2018,"2018",300,"Austin, TX","16000US4805000","austin-tx",1591,0.0017002313639788193
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2018,"2018",971,"Austin, TX","16000US4805000","austin-tx",3706,0.003960438362605597
+3,"Asian Alone",0,"Not Hispanic or Latino",2018,"2018",1587,"Austin, TX","16000US4805000","austin-tx",67929,0.07259271924809378
+3,"Asian Alone",1,"Hispanic or Latino",2018,"2018",185,"Austin, TX","16000US4805000","austin-tx",679,0.0007256172823014571
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2018,"2018",104,"Austin, TX","16000US4805000","austin-tx",252,0.00026930125941085006
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2018,"2018",146,"Austin, TX","16000US4805000","austin-tx",203,0.00021693712563651812
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2018,"2018",439,"Austin, TX","16000US4805000","austin-tx",1694,0.0018103029104840477
+5,"Some Other Race Alone",1,"Hispanic or Latino",2018,"2018",4014,"Austin, TX","16000US4805000","austin-tx",68203,0.07288553093491353
+6,"Two or More Races",0,"Not Hispanic or Latino",2018,"2018",1366.4801498741208,"Austin, TX","16000US4805000","austin-tx",21847,0.023346923072812862
+6,"Two or More Races",1,"Hispanic or Latino",2018,"2018",884.7790684685075,"Austin, TX","16000US4805000","austin-tx",8585,0.009174409968421221
+0,"White Alone",0,"Not Hispanic or Latino",2017,"2017",3012,"Austin, TX","16000US4805000","austin-tx",445269,0.4856212087171422
+0,"White Alone",1,"Hispanic or Latino",2017,"2017",4205,"Austin, TX","16000US4805000","austin-tx",242508,0.2644851271558917
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2017,"2017",1574,"Austin, TX","16000US4805000","austin-tx",66724,0.07277081838269135
+1,"Black or African American Alone",1,"Hispanic or Latino",2017,"2017",711,"Austin, TX","16000US4805000","austin-tx",3124,0.0034071104344392993
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2017,"2017",345,"Austin, TX","16000US4805000","austin-tx",1674,0.001825705143166257
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2017,"2017",630,"Austin, TX","16000US4805000","austin-tx",2534,0.002763642074541992
+3,"Asian Alone",0,"Not Hispanic or Latino",2017,"2017",1418,"Austin, TX","16000US4805000","austin-tx",63411,0.06915757994821715
+3,"Asian Alone",1,"Hispanic or Latino",2017,"2017",218,"Austin, TX","16000US4805000","austin-tx",638,0.0006958183281601386
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2017,"2017",203,"Austin, TX","16000US4805000","austin-tx",341,0.00037190289953386717
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2017,"2017",198,"Austin, TX","16000US4805000","austin-tx",230,0.00025084359792606873
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2017,"2017",365,"Austin, TX","16000US4805000","austin-tx",1556,0.0016970114711867955
+5,"Some Other Race Alone",1,"Hispanic or Latino",2017,"2017",3752,"Austin, TX","16000US4805000","austin-tx",60048,0.06548981029680251
+6,"Two or More Races",0,"Not Hispanic or Latino",2017,"2017",1540.7744805778682,"Austin, TX","16000US4805000","austin-tx",21222,0.023145229718204482
+6,"Two or More Races",1,"Hispanic or Latino",2017,"2017",909.0946045379435,"Austin, TX","16000US4805000","austin-tx",7627,0.008318191832096202
+0,"White Alone",0,"Not Hispanic or Latino",2016,"2016",2654,"Austin, TX","16000US4805000","austin-tx",443808,0.4888943233980958
+0,"White Alone",1,"Hispanic or Latino",2016,"2016",4120,"Austin, TX","16000US4805000","austin-tx",244849,0.269723137459668
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2016,"2016",1893.9999999999998,"Austin, TX","16000US4805000","austin-tx",65631,0.07229843386991767
+1,"Black or African American Alone",1,"Hispanic or Latino",2016,"2016",555,"Austin, TX","16000US4805000","austin-tx",3020,0.0033268009063880085
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2016,"2016",301,"Austin, TX","16000US4805000","austin-tx",1515,0.0016689084017145143
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2016,"2016",668,"Austin, TX","16000US4805000","austin-tx",2401,0.002644916879548877
+3,"Asian Alone",0,"Not Hispanic or Latino",2016,"2016",1609,"Austin, TX","16000US4805000","austin-tx",61234,0.06745474394098123
+3,"Asian Alone",1,"Hispanic or Latino",2016,"2016",236,"Austin, TX","16000US4805000","austin-tx",692,0.0007623000752385768
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2016,"2016",213,"Austin, TX","16000US4805000","austin-tx",541,0.0005959600299191764
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2016,"2016",167,"Austin, TX","16000US4805000","austin-tx",202,0.0002225211202286019
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2016,"2016",344,"Austin, TX","16000US4805000","austin-tx",1451,0.0015984066606519868
+5,"Some Other Race Alone",1,"Hispanic or Latino",2016,"2016",3275,"Austin, TX","16000US4805000","austin-tx",53735,0.059193922749920413
+6,"Two or More Races",0,"Not Hispanic or Latino",2016,"2016",1546.698742483487,"Austin, TX","16000US4805000","austin-tx",20777,0.022887729282127036
+6,"Two or More Races",1,"Hispanic or Latino",2016,"2016",918.0092592125638,"Austin, TX","16000US4805000","austin-tx",7923,0.008727895225600064
+0,"White Alone",0,"Not Hispanic or Latino",2015,"2015",2623,"Austin, TX","16000US4805000","austin-tx",431789,0.4867635934845518
+0,"White Alone",1,"Hispanic or Latino",2015,"2015",4398,"Austin, TX","16000US4805000","austin-tx",234720,0.2646041253081806
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2015,"2015",1979,"Austin, TX","16000US4805000","austin-tx",65233,0.0735383474191741
+1,"Black or African American Alone",1,"Hispanic or Latino",2015,"2015",574,"Austin, TX","16000US4805000","austin-tx",2982,0.0033616628394214153
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2015,"2015",299,"Austin, TX","16000US4805000","austin-tx",1461,0.001647011874042484
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2015,"2015",745,"Austin, TX","16000US4805000","austin-tx",2636,0.0029716107460479044
+3,"Asian Alone",0,"Not Hispanic or Latino",2015,"2015",1456,"Austin, TX","16000US4805000","austin-tx",59571,0.06715547183339139
+3,"Asian Alone",1,"Hispanic or Latino",2015,"2015",231.99999999999997,"Austin, TX","16000US4805000","austin-tx",699,0.0007879954140696074
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2015,"2015",206,"Austin, TX","16000US4805000","austin-tx",601,0.0006775182315534107
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2015,"2015",46,"Austin, TX","16000US4805000","austin-tx",54,0.00006087518220280229
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2015,"2015",324,"Austin, TX","16000US4805000","austin-tx",1320,0.0014880600094018337
+5,"Some Other Race Alone",1,"Hispanic or Latino",2015,"2015",3101,"Austin, TX","16000US4805000","austin-tx",57444,0.06475766604551435
+6,"Two or More Races",0,"Not Hispanic or Latino",2015,"2015",1359.681212637727,"Austin, TX","16000US4805000","austin-tx",21014,0.023689464422401618
+6,"Two or More Races",1,"Hispanic or Latino",2015,"2015",888.4216341355044,"Austin, TX","16000US4805000","austin-tx",7537,0.008496597190046683
+0,"White Alone",0,"Not Hispanic or Latino",2014,"2014",2628,"Austin, TX","16000US4805000","austin-tx",420506,0.4865739894332217
+0,"White Alone",1,"Hispanic or Latino",2014,"2014",4809,"Austin, TX","16000US4805000","austin-tx",224210,0.259436855052776
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2014,"2014",1897.0000000000002,"Austin, TX","16000US4805000","austin-tx",64781,0.07495909596884119
+1,"Black or African American Alone",1,"Hispanic or Latino",2014,"2014",560,"Austin, TX","16000US4805000","austin-tx",2582,0.0029876720919953066
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2014,"2014",250,"Austin, TX","16000US4805000","austin-tx",1557,0.0018016287557074719
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2014,"2014",764,"Austin, TX","16000US4805000","austin-tx",2839,0.003285050762654793
+3,"Asian Alone",0,"Not Hispanic or Latino",2014,"2014",1693.9999999999998,"Austin, TX","16000US4805000","austin-tx",56089,0.06490144847712036
+3,"Asian Alone",1,"Hispanic or Latino",2014,"2014",219.99999999999997,"Austin, TX","16000US4805000","austin-tx",713,0.0008250233158763182
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2014,"2014",180,"Austin, TX","16000US4805000","austin-tx",571,0.0006607129219710768
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2014,"2014",28.999999999999996,"Austin, TX","16000US4805000","austin-tx",22,0.000025456539900812064
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2014,"2014",307,"Austin, TX","16000US4805000","austin-tx",1165,0.0013480394992930024
+5,"Some Other Race Alone",1,"Hispanic or Latino",2014,"2014",3264,"Austin, TX","16000US4805000","austin-tx",62565,0.0723949281315594
+6,"Two or More Races",0,"Not Hispanic or Latino",2014,"2014",1344.6757973578613,"Austin, TX","16000US4805000","austin-tx",18573,0.021491105253535567
+6,"Two or More Races",1,"Hispanic or Latino",2014,"2014",1241.6815211639416,"Austin, TX","16000US4805000","austin-tx",8045,0.009308993795546956
+0,"White Alone",0,"Not Hispanic or Latino",2013,"2013",2557,"Austin, TX","16000US4805000","austin-tx",410982,0.4911352772466539
+0,"White Alone",1,"Hispanic or Latino",2013,"2013",3934.9999999999995,"Austin, TX","16000US4805000","austin-tx",201477,0.24077079349904398
+1,"Black or African American Alone",0,"Not Hispanic or Latino",2013,"2013",1693.9999999999998,"Austin, TX","16000US4805000","austin-tx",64544,0.07713193116634799
+1,"Black or African American Alone",1,"Hispanic or Latino",2013,"2013",543,"Austin, TX","16000US4805000","austin-tx",2464,0.0029445506692160612
+2,"American Indian & Alaska Native Alone",0,"Not Hispanic or Latino",2013,"2013",285,"Austin, TX","16000US4805000","austin-tx",1549,0.0018510994263862333
+2,"American Indian & Alaska Native Alone",1,"Hispanic or Latino",2013,"2013",736,"Austin, TX","16000US4805000","austin-tx",2980,0.0035611854684512428
+3,"Asian Alone",0,"Not Hispanic or Latino",2013,"2013",1684,"Austin, TX","16000US4805000","austin-tx",51766,0.06186185468451243
+3,"Asian Alone",1,"Hispanic or Latino",2013,"2013",168,"Austin, TX","16000US4805000","austin-tx",519,0.0006202198852772467
+4,"Native Hawaiian & Other Pacific Islander Alone",0,"Not Hispanic or Latino",2013,"2013",159,"Austin, TX","16000US4805000","austin-tx",566,0.0006763862332695985
+4,"Native Hawaiian & Other Pacific Islander Alone",1,"Hispanic or Latino",2013,"2013",28.999999999999996,"Austin, TX","16000US4805000","austin-tx",18,0.00002151051625239006
+5,"Some Other Race Alone",0,"Not Hispanic or Latino",2013,"2013",362,"Austin, TX","16000US4805000","austin-tx",1324,0.0015822179732313576
+5,"Some Other Race Alone",1,"Hispanic or Latino",2013,"2013",3457,"Austin, TX","16000US4805000","austin-tx",74188,0.08865678776290631
+6,"Two or More Races",0,"Not Hispanic or Latino",2013,"2013",1115.0269055049748,"Austin, TX","16000US4805000","austin-tx",16620,0.01986137667304015
+6,"Two or More Races",1,"Hispanic or Latino",2013,"2013",1127.1069159578428,"Austin, TX","16000US4805000","austin-tx",7803,0.00932480879541109
