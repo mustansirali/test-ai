@@ -2,5 +2,7 @@ langgraph
 langchain
 openai
 pymongo
-tavily
+tavily-python
 python-dotenv
+fastapi
+uvicorn[standard]

@@ -2,3 +2,4 @@
 */env/*
 *secrets.toml
 *.pyc
+workflow_*.log
